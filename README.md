@@ -8,3 +8,7 @@
    *Calculating the number of first-class stamps & penny stamps*
 3. [Birthday_Guessing_Game.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/8c70012635fc82329585ad4d84fbb3394244bd09/Birthday_Guessing_Game.cpp)
    *Guessing the user's birthday using the concept of binary numbers*
+4. [PennieConverter.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/02287f9b46a4838936cf9df5f24f345197019492/PennieConverter.cpp)
+   *Converting the penny amount into various denominations of currency*
+5. [VelocityCalculator.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/02287f9b46a4838936cf9df5f24f345197019492/VelocityCalculator.cpp)
+   *Calculating velocity when two points are given*
