@@ -12,3 +12,5 @@
    *Converting the penny amount into various denominations of currency*
 5. [VelocityCalculator.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/02287f9b46a4838936cf9df5f24f345197019492/VelocityCalculator.cpp)
    *Calculating velocity when two points are given*
+6. [BMI_Calculator.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/d271b11fccdbeca3688b02bc4e4c4a3bc84bff95/BMI_Calculator.cpp)
+   *Calculates BMI if the weight is in pounds & height is in inches*
