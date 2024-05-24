@@ -1,6 +1,7 @@
 // BMI Calcultor
 // BMI = Body mass index
 // BMI = (Body weight in Kilogrmas)/(height in meters)^2 
+// the formula is used differently
 #include <iostream>
 using namespace std;
 int main () {
