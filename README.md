@@ -14,3 +14,9 @@
    *Calculating velocity when two points are given*
 6. [BMI_Calculator.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/d271b11fccdbeca3688b02bc4e4c4a3bc84bff95/BMI_Calculator.cpp)
    *Calculates BMI if the weight is in pounds & height is in inches*
+7. [Lottery.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/894ffd9c98b156ef74984fee24de3a26f1bf716f/Lottery.cpp)
+   *Does a lottery using 2 digits*
+8. [RockPaperScissor.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/894ffd9c98b156ef74984fee24de3a26f1bf716f/RockPaperScissor.cpp)
+   *A game of Rock Paper & Scissor with a Computer*
+9. [CurrentTimeGMT.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/894ffd9c98b156ef74984fee24de3a26f1bf716f/CurrentTimeGMT.cpp)
+   *Displays the current time in GMT*
