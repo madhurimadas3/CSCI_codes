@@ -20,3 +20,9 @@
    *A game of Rock Paper & Scissor with a Computer*
 9. [CurrentTimeGMT.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/894ffd9c98b156ef74984fee24de3a26f1bf716f/CurrentTimeGMT.cpp)
    *Displays the current time in GMT*
+10. [CommissionRate.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/42e803a03ce0d91801848a889c3394d8feaaded5/CommissionRate.cpp)
+    *Calculates the end-of-month commission/reimbursement given the amount of monthly sales an employee has and advance pay they have received*
+11. [FahrenheitTOCelsius.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/42e803a03ce0d91801848a889c3394d8feaaded5/FahrenheitTOCelsius.cpp)
+    *Converts temperature from Fahrenheit scale to Celsius scale*
+12. [TornadoCategory.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/42e803a03ce0d91801848a889c3394d8feaaded5/TornadoCategory.cpp)
+    *Indicates the category of a tornado based on the wind speed*
