@@ -26,3 +26,5 @@
     *Converts temperature from Fahrenheit scale to Celsius scale*
 12. [TornadoCategory.cpp](https://github.com/madhurimadas3/CSCI_codes/blob/42e803a03ce0d91801848a889c3394d8feaaded5/TornadoCategory.cpp)
     *Indicates the category of a tornado based on the wind speed*
+13. [StampMachine.py](https://github.com/madhurimadas3/CSCI_codes/blob/93cdef83a5ac5d167df13bf821dc13ba1c63a19c/StampMachine.py)
+    *Pyhton version of [StampMachine.cpp]*
